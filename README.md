@@ -75,8 +75,8 @@ You will also need to have software installed to run and execute a Jupyter Noteb
 If you do not have Python installed yet, it is highly recommended that you install the Anaconda distribution of Python.
 
 
-## Loan Default Prediction Project Life Cycle
-
+## Sales Prediction Project Life Cycle
+<img src = "ML_Roadmap1.jpg">
 
 ## Contact
 
