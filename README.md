@@ -4,13 +4,14 @@ End-to-End Machine Learning Project with Sales Data
 
 ## Domain Background
 
-<h2> What is the Meaning of Retail? </h2>
+### What is the Meaning of Retail?
 
 Retail is how producers of goods and services get their products to the consumer. Retailers often get their goods directly from the manufacturer.That is when a commodity becomes a finished product.
 
 Retailers can also buy products from a store person, wholesaler, or distributor
 
-How Retail Works?
+### How Retail Works?
+
 Retailers make money by purchasing goods from suppliers and manufacturers. They raise prices well above the cost of labor, equipment, and distribution. Everyone along the supply chain does this.
 
 Retailers can sometimes make more money if they bypass wholesalers and purchase directly from the factory.
@@ -19,7 +20,7 @@ This price increase is known as a "markup" or the retailer's "profit margin." It
 
 It's needed to cover costs and provide enough profit to pay stockholders or private owners.
 
-How we can help retail businesses through Machine learning models?
+### How we can help retail businesses through Machine learning models?
 
 Retail is a subset of business where its sale occurs when a business sells a product or service to an individual consumer for his or her use. 
 
@@ -58,7 +59,9 @@ I used a retail sales Dataset aset that can be found in  kaggle : https://www.ka
 Dataset has total 3 csv files. 
 
 To get more understanding of database please read the "Dataset Details" available on  Kaggle. 
+
 ## Installation
+
 This project requires Python and the following Python libraries installed:
 
     NumPy
