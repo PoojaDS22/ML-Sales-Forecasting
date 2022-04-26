@@ -4,25 +4,25 @@ End-to-End Machine Learning Project with Sales Data
 
 ## Domain Background
 
-### What is the Meaning of Retail?
+### What is Retail?
 
 Retail is how producers of goods and services get their products to the consumer. Retailers often get their goods directly from the manufacturer.That is when a commodity becomes a finished product.
 
 Retailers can also buy products from a store person, wholesaler, or distributor
 
-### How Retail Works?
+### How does Retail work?
 
-Retailers make money by purchasing goods from suppliers and manufacturers. They raise prices well above the cost of labor, equipment, and distribution. Everyone along the supply chain does this.
+Retailers make money by purchasing goods from suppliers and manufacturers. They raise prices well above the cost of labor, equipment and distribution. Everyone along the supply chain does this.
 
-Retailers can sometimes make more money if they bypass wholesalers and purchase directly from the factory.
+Sometimes Retailers can make more money if they bypass wholesalers and purchase directly from the factory.
 
-This price increase is known as a "markup" or the retailer's "profit margin." It's typically 100% (double the cost) at each stage. That's called "keystone markup." 
+This price increase is known as a "markup" or the retailer's "profit margin." It is typically 100% (double the cost) at each stage. That's called "keystone markup." 
 
-It's needed to cover costs and provide enough profit to pay stockholders or private owners.
+It covers the cost and provides enough profit to pay stockholders or private owners.
 
-### How we can help retail businesses through Machine learning models?
+### How can we help retail businesses through Machine learning models?
 
-Retail is a subset of business where its sale occurs when a business sells a product or service to an individual consumer for his or her use. 
+Retail is a subset of the business where its sale occurs when a business sells a product or service to an individual consumer for his or her use. 
 
 This retail industry is generating a large amount of customer data. 
 
@@ -31,15 +31,15 @@ Data science helps to gain insights from this data about the customers and marke
 Some Data science use cases were used by retail industries to grow their industries in today’s world.
         
         Price optimization
-        Personalized Marketing
+        Personalized marketing
         Fraud detection in Retail
         Utilizing social media
         Implementing Augmented Reality
         Merchandising
-        Location of New Store
-        Inventory Management
-        Customer Sentiment Analysis
-        Recommendation System
+        Location of new store
+        Inventory management
+        Customer sentiment analysis
+        Recommendation system
 
 
 
